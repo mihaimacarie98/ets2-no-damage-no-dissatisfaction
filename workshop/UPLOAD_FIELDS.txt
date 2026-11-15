@@ -1,0 +1,40 @@
+=== SCS Workshop Uploader: copy each block into its field ===
+
+Folder (Browse):   ...\workshop_upload\no_damage_bus_satisfaction
+Preview image:     ...\workshop_upload\no_damage_bus_satisfaction\preview.jpg   (640x360)
+Type (required):   Others
+Visibility:        Private (switch to Public after testing)
+
+--- Mod name ---
+No Damage + No Passenger Dissatisfaction
+
+--- Description ---
+[h1]No Damage + No Passenger Dissatisfaction[/h1]
+Keeps your truck and trailer damage at 0% and stops bus passenger satisfaction from ever dropping. Made for ETS2 1.62.
+
+[b]Truck damage[/b]
+[list]
+[*] All collision damage zeroed (truck, trailer, dragged trailer, side and roof impacts)
+[*] All mileage wear zeroed (engine, transmission, wheels, fixable and unfixable)
+[*] Cargo damage zeroed
+[*] Used trucks from the dealer spawn with no wear
+[/list]
+
+[b]Bus passenger satisfaction (Bus DLC)[/b]
+[list]
+[*] All satisfaction penalties zeroed: harsh acceleration, crashes, speeding, part wear, late arrival, traffic offences
+[*] New passengers start at maximum satisfaction
+[*] Acceleration job-failure disabled
+[/list]
+
+[b]Notes[/b]
+[list]
+[*] Damage or wear already in your save is not reset. Repair once at a service station.
+[*] Do not enable other "No Damage" mods at the same time.
+[*] Unofficial, not affiliated with SCS Software.
+[/list]
+
+Source: https://github.com/mihaimacarie98/ets2-no-damage-no-dissatisfaction
+
+--- Change note ---
+Initial release for ETS2 1.62.
