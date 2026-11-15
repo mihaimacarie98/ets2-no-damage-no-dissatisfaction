@@ -1,0 +1,10 @@
+SiiNunit
+{
+package_version_info : .latest {
+	package_name: "content_162"
+}
+package_version_info : .162.content {
+	package_name: "content_162"
+	compatible_versions[]: "1.62.*"
+}
+}
