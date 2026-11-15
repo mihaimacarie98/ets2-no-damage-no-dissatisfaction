@@ -1,8 +1,11 @@
 SiiNunit
 {
+// Fallback: used for any game version not listed below (including future updates).
 package_version_info : .latest {
 	package_name: "content_162"
 }
+
+// Explicit entry for the version this mod was built and tested on.
 package_version_info : .162.content {
 	package_name: "content_162"
 	compatible_versions[]: "1.62.*"
