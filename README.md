@@ -1,11 +1,17 @@
 # ETS2 – No Damage + No Passenger Dissatisfaction
 
+**[Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3840637172)** (easiest way to install and stay updated)
+
 A Euro Truck Simulator 2 mod for **1.62** that:
 
 - keeps truck and trailer damage at **0%** (collision damage, mileage wear, cargo damage all zeroed, plus used-truck dealer offers spawn with no unfixable wear)
 - keeps **bus passenger satisfaction** from ever dropping (every penalty zeroed: harsh acceleration, crashes, speeding, part wear, lateness, traffic offences; new passengers start at max; acceleration job-failure disabled). Requires the Bus DLC for the bus part.
 
 ## Install
+
+Easiest: subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3840637172).
+
+Manual install:
 
 1. Download [`dist/zzz_no_damage_no_dissatisfaction.scs`](dist/zzz_no_damage_no_dissatisfaction.scs)
 2. Put it in `Documents/Euro Truck Simulator 2/mod/`
