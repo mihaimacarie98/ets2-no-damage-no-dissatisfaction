@@ -1,0 +1,17 @@
+Keeps your truck and trailer damage permanently at 0% and pins bus passenger
+satisfaction at maximum, no matter how you drive.
+
+Truck damage:
+- all collision damage coefficients zeroed (truck, trailer, dragged trailer, side/roof impacts)
+- all mileage wear zeroed (engine, transmission, wheels, fixable and unfixable)
+- cargo damage ratio zeroed
+- used-truck dealer offers also spawn at 0% wear (unfixable included)
+
+Bus passenger satisfaction (official bus DLC):
+- every satisfaction penalty zeroed: harsh acceleration, crashes, speeding,
+  core part wear, late arrivals, traffic offences
+- new-passenger satisfaction set to maximum
+- job-failure acceleration limit disabled
+
+Note: damage or wear already present in an existing save is NOT reset.
+Repair your truck once at a service station, and from then on it stays at 0%.
