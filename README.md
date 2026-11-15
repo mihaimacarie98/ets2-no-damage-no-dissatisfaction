@@ -17,7 +17,7 @@ Don't enable other "No Damage" mods at the same time (they override the same `de
 ## Steam Workshop upload
 
 `workshop/no_damage_bus_satisfaction/` is ready for the **SCS Workshop Uploader**
-(`versions.sii`, a `content_162` package, `preview.jpg`). Point the uploader at that folder and use `preview.jpg` as the preview image. Don't run the local `.scs` and the Workshop copy at the same time.
+(`versions.sii` and a `content_162` package; `preview.jpg` sits next to the folder). Point the uploader at that folder and use `preview.jpg` as the preview image. Don't run the local `.scs` and the Workshop copy at the same time.
 
 ## What it changes
 

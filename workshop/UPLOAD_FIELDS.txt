@@ -1,7 +1,7 @@
 === SCS Workshop Uploader: copy each block into its field ===
 
 Folder (Browse):   ...\workshop_upload\no_damage_bus_satisfaction
-Preview image:     ...\workshop_upload\no_damage_bus_satisfaction\preview.jpg   (640x360)
+Preview image:     ...\workshop_upload\preview.jpg   (640x360)
 Type (required):   Others
 Visibility:        Private (switch to Public after testing)
 
